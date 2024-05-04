@@ -16,7 +16,9 @@
     const result1 = add("2", "3");
     console.log(result1);
   
-    // in guard
+    //------------------- in guard
+
+    
     type NormalUser = {
       name: string;
     };
