@@ -1,6 +1,4 @@
 {
-
-  
     // Object orianted programming
     // paradiam
     // 1. procedural
@@ -10,11 +8,8 @@
     // 5. Event driven***
 
     
-    
-
-
         // ------------------------oop - class ------------------------
-        
+
     class Animal {
       constructor(
         public name: string,
